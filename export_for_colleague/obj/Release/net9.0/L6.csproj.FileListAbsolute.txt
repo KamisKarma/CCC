@@ -1,0 +1,14 @@
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\bin\Release\net9.0\L6.exe
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\bin\Release\net9.0\L6.deps.json
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\bin\Release\net9.0\L6.runtimeconfig.json
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\bin\Release\net9.0\L6.dll
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\bin\Release\net9.0\L6.pdb
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\L6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\L6.AssemblyInfoInputs.cache
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\L6.AssemblyInfo.cs
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\L6.csproj.CoreCompileInputs.cache
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\L6.dll
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\refint\L6.dll
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\L6.pdb
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\L6.genruntimeconfig.cache
+C:\Users\david\4aHbg\Diplomarbeit\ccc2026\export_for_colleague\cs_beam\obj\Release\net9.0\ref\L6.dll
