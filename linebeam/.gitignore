@@ -3,3 +3,7 @@ lb2
 chain
 res/
 *.log
+len_*.txt
+enorm_dense.txt
+med_hot.txt
+t1.txt
